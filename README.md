@@ -20,8 +20,8 @@ This repository contains R workflows developed to evaluate relative exon-bin usa
 ---
 
 ## 🛠️ Stack & Dependencies
-- **Language:** R (>= 4.0)
-- **Genomic & Plotting Libraries:** `Gviz`, `GenomicRanges`, `ggplot2`, `gplots`, `scales`, `reshape2`, `dplyr`
+
+Genomic & Plotting Libraries:** `Gviz`, `GenomicRanges`, `ggplot2`, `gplots`, `scales`, `reshape2`, `dplyr`
 
 ---
 
